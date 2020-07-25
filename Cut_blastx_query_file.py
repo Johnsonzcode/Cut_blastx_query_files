@@ -1,10 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-# !usr/bin/python3
 # Function: cutting the blastx query file into several files
 
 
@@ -53,16 +47,3 @@ for x in range(10):
 else:
     f.close()
     print('Done!')
-
-
-# In[35]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
